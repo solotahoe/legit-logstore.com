@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
+import { CopyToClipboard } from "react-copy-to-clipboard";
 
 export default function Purchase() {
   const [toggle, setToggle] = useState(true);
@@ -48,11 +49,16 @@ export default function Purchase() {
         </div>
         <div className="code_qrcode">
           {toggle ? (
-            <input
-              type="text"
-              className="input_scan_copy"
-              value="35KdJVgYQFiKd1sHwJgo8g5jLHKC6HSFy9"
-            />
+            <div className="addressFragemnt">
+              <input
+                type="text"
+                className="input_scan_copy"
+                value="35KdJVgYQFiKd1sHwJgo8g5jLHKC6HSFy9"
+              />
+              <CopyToClipboard text="35KdJVgYQFiKd1sHwJgo8g5jLHKC6HSFy9">
+                <i className="fa fa-clone" aria-hidden="true"></i>
+              </CopyToClipboard>
+            </div>
           ) : (
             <img src="code.jpeg" alt="qrcode" />
           )}

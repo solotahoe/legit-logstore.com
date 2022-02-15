@@ -212,7 +212,7 @@ export default function Discovercards() {
               >
                 <div className="card-body">
                   <Link style={{ textDecoration: "none" }} to="/cashappaccount">
-                    <li>Cashapp Account</li>
+                    <li>Discovery Bank Account</li>
                   </Link>
 
                   <Link style={{ textDecoration: "none" }} to="/paypalaccount">
@@ -372,10 +372,10 @@ export default function Discovercards() {
             style={{ width: accordionWidth ? "1000px" : "1200px" }}
           >
             <div className="inner_div_table">
-              <div className="udpated">Cashapp Logs 100% Valid updated </div>
+              <div className="udpated">Discover </div>
               <div className="goodForCC">
-                Cashapp logs. All my Cashapp is BTC Enabled! Bank/Card Linked
-                2021 Updated 06/01/2022
+                Discover USA Good for online shopping and Bills pay all cards
+                are valid and with a balance
               </div>
               <div>
                 <table className="table table-bordered table-responsive">
@@ -392,11 +392,11 @@ export default function Discovercards() {
                   </thead>
                   <tbody>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Discovery Bank</th>
                       <td>@makerthree</td>
                       <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
+                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
+                        Address, Acct&Rn license NO,ZelleON
                       </td>
                       <td>$4,853.57</td>
                       <td>484$</td>
@@ -422,11 +422,11 @@ export default function Discovercards() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Discovery Bank</th>
                       <td>@makerthree</td>
                       <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
+                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
+                        Address, Acct&Rn license NO,ZelleON
                       </td>
                       <td>$1,254.64</td>
                       <td>100$</td>
@@ -452,11 +452,11 @@ export default function Discovercards() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Discovery Bank</th>
                       <td>@makerthree</td>
                       <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
+                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
+                        Address, Acct&Rn license NO,ZelleON
                       </td>
                       <td>$1,632.75</td>
                       <td>150$</td>
@@ -482,11 +482,11 @@ export default function Discovercards() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Discovery Bank</th>
                       <td>@makerthree</td>
                       <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
+                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
+                        Address, Acct&Rn license NO,ZelleON
                       </td>
                       <td>$1,883.53</td>
                       <td>180$</td>
@@ -512,11 +512,11 @@ export default function Discovercards() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Discovery Bank</th>
                       <td>@makerthree</td>
                       <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
+                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
+                        Address, Acct&Rn license NO,ZelleON
                       </td>
                       <td>$2,165.53</td>
                       <td>230$</td>
@@ -542,11 +542,11 @@ export default function Discovercards() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Discovery Bank</th>
                       <td>@makerthree</td>
                       <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
+                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
+                        Address, Acct&Rn license NO,ZelleON
                       </td>
                       <td>$2,523.48</td>
                       <td>240$</td>
@@ -572,11 +572,11 @@ export default function Discovercards() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Discovery Bank</th>
                       <td>@makerthree</td>
                       <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
+                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
+                        Address, Acct&Rn license NO,ZelleON
                       </td>
                       <td>$2,755.00</td>
                       <td>263$</td>
@@ -602,11 +602,11 @@ export default function Discovercards() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Discovery Bank</th>
                       <td>@makerthree</td>
                       <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
+                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
+                        Address, Acct&Rn license NO,ZelleON
                       </td>
                       <td>$10,736.88</td>
                       <td>190$</td>
@@ -632,11 +632,11 @@ export default function Discovercards() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Discovery Bank</th>
                       <td>@makerthree</td>
                       <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
+                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
+                        Address, Acct&Rn license NO,ZelleON
                       </td>
                       <td>$3,027.01</td>
                       <td>299$</td>
@@ -662,11 +662,11 @@ export default function Discovercards() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Discovery Bank</th>
                       <td>@makerthree</td>
                       <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
+                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
+                        Address, Acct&Rn license NO,ZelleON
                       </td>
                       <td>$3,163.56</td>
                       <td>310$</td>
@@ -692,11 +692,11 @@ export default function Discovercards() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Discovery Bank</th>
                       <td>@makerthree</td>
                       <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
+                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
+                        Address, Acct&Rn license NO,ZelleON
                       </td>
                       <td>$3,674.90</td>
                       <td>350$</td>
@@ -722,11 +722,11 @@ export default function Discovercards() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Discovery Bank</th>
                       <td>@makerthree</td>
                       <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
+                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
+                        Address, Acct&Rn license NO,ZelleON
                       </td>
                       <td>$3,900.43</td>
                       <td>380$</td>
@@ -752,11 +752,11 @@ export default function Discovercards() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Discovery Bank</th>
                       <td>@makerthree</td>
                       <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
+                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
+                        Address, Acct&Rn license NO,ZelleON
                       </td>
                       <td>$3,674.90</td>
                       <td>350$</td>
@@ -782,11 +782,11 @@ export default function Discovercards() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Discovery Bank</th>
                       <td>@makerthree</td>
                       <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
+                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
+                        Address, Acct&Rn license NO,ZelleON
                       </td>
                       <td>$4,117.86</td>
                       <td>324$</td>
@@ -812,11 +812,11 @@ export default function Discovercards() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Discovery Bank</th>
                       <td>@makerthree</td>
                       <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
+                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
+                        Address, Acct&Rn license NO,ZelleON
                       </td>
                       <td>$4,684.35</td>
                       <td>450$</td>
@@ -842,11 +842,11 @@ export default function Discovercards() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Discovery Bank</th>
                       <td>@makerthree</td>
                       <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
+                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
+                        Address, Acct&Rn license NO,ZelleON
                       </td>
                       <td>$4,853.57</td>
                       <td>484$</td>
@@ -872,11 +872,11 @@ export default function Discovercards() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Discovery Bank</th>
                       <td>@makerthree</td>
                       <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
+                        Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
+                        Address, Acct&Rn license NO,ZelleON
                       </td>
                       <td>$5,024.42</td>
                       <td>498$</td>

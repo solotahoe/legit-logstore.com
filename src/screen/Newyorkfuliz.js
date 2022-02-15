@@ -372,10 +372,9 @@ export default function Newyorkfuliz() {
             style={{ width: accordionWidth ? "1000px" : "1200px" }}
           >
             <div className="inner_div_table">
-              <div className="udpated">Cashapp Logs 100% Valid updated </div>
+              <div className="udpated">New York FULLZ</div>
               <div className="goodForCC">
-                Cashapp logs. All my Cashapp is BTC Enabled! Bank/Card Linked
-                2021 Updated 06/01/2022
+                New York FULLZ Exclusive Fullz 100% Valid
               </div>
               <div>
                 <table className="table table-bordered table-responsive">
@@ -384,7 +383,7 @@ export default function Newyorkfuliz() {
                       <th scope="col">Logs Name</th>
                       <th scope="col">Vendor</th>
                       <th scope="col">Includes</th>
-                      <th scope="col">Balance</th>
+                      <th scope="col">Exlusive</th>
                       <th scope="col">Price</th>
                       <th scope="col">Status</th>
                       <th scope="col">Buy Now</th>
@@ -392,14 +391,14 @@ export default function Newyorkfuliz() {
                   </thead>
                   <tbody>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">New York FULLZ</th>
                       <td>@makerthree</td>
                       <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
+                        Full Name Date of Birth, Full Name, Ssn, MMN DL No,
+                        Address/zip/Phone
                       </td>
-                      <td>$4,853.57</td>
-                      <td>484$</td>
+                      <td>RESIDENT</td>
+                      <td>100$</td>
                       <td>
                         <label className="badge badge-success blink_me">
                           Available
@@ -422,24 +421,354 @@ export default function Newyorkfuliz() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">New York FULLZ</th>
                       <td>@makerthree</td>
                       <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
+                        Full Name Date of Birth, Full Name, Ssn, MMN DL No,
+                        Address/zip/Phone
                       </td>
-                      <td>$1,254.64</td>
+                      <td>RESIDENT</td>
+                      <td>100$</td>
+                      <td>
+                        <label className="badge badge-danger blink_me">
+                          sold out
+                        </label>
+                      </td>
+                      <td>
+                        <Link
+                          to="/addfunds"
+                          style={{ textDecoration: "none" }}
+                          state={{ from: "$95", balance: "$1,017.76" }}
+                        >
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">New York FULLZ</th>
+                      <td>@makerthree</td>
+                      <td>
+                        Full Name Date of Birth, Full Name, Ssn, MMN DL No,
+                        Address/zip/Phone
+                      </td>
+                      <td>RESIDENT</td>
+                      <td>100$</td>
+                      <td>
+                        <label className="badge badge-danger blink_me">
+                          sold out
+                        </label>
+                      </td>
+                      <td>
+                        <Link
+                          to="/addfunds"
+                          style={{ textDecoration: "none" }}
+                          state={{ from: "$95", balance: "$1,017.76" }}
+                        >
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">New York FULLZ</th>
+                      <td>@makerthree</td>
+                      <td>
+                        Full Name Date of Birth, Full Name, Ssn, MMN DL No,
+                        Address/zip/Phone
+                      </td>
+                      <td>RESIDENT</td>
+                      <td>100$</td>
+                      <td>
+                        <label className="badge badge-danger blink_me">
+                          sold out
+                        </label>
+                      </td>
+                      <td>
+                        <Link
+                          to="/addfunds"
+                          style={{ textDecoration: "none" }}
+                          state={{ from: "$95", balance: "$1,017.76" }}
+                        >
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">New York FULLZ</th>
+                      <td>@makerthree</td>
+                      <td>
+                        Full Name Date of Birth, Full Name, Ssn, MMN DL No,
+                        Address/zip/Phone
+                      </td>
+                      <td>RESIDENT</td>
+                      <td>100$</td>
+                      <td>
+                        <label className="badge badge-danger blink_me">
+                          sold out
+                        </label>
+                      </td>
+                      <td>
+                        <Link
+                          to="/addfunds"
+                          style={{ textDecoration: "none" }}
+                          state={{ from: "$95", balance: "$1,017.76" }}
+                        >
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">New York FULLZ</th>
+                      <td>@makerthree</td>
+                      <td>
+                        Full Name Date of Birth, Full Name, Ssn, MMN DL No,
+                        Address/zip/Phone
+                      </td>
+                      <td>RESIDENT</td>
+                      <td>100$</td>
+                      <td>
+                        <label className="badge badge-danger blink_me">
+                          sold out
+                        </label>
+                      </td>
+                      <td>
+                        <Link
+                          to="/addfunds"
+                          style={{ textDecoration: "none" }}
+                          state={{ from: "$95", balance: "$1,017.76" }}
+                        >
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">New York FULLZ</th>
+                      <td>@makerthree</td>
+                      <td>
+                        Full Name Date of Birth, Full Name, Ssn, MMN DL No,
+                        Address/zip/Phone
+                      </td>
+                      <td>RESIDENT</td>
+                      <td>100$</td>
+                      <td>
+                        <label className="badge badge-danger blink_me">
+                          sold out
+                        </label>
+                      </td>
+                      <td>
+                        <Link
+                          to="/addfunds"
+                          style={{ textDecoration: "none" }}
+                          state={{ from: "$95", balance: "$1,017.76" }}
+                        >
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">New York FULLZ</th>
+                      <td>@makerthree</td>
+                      <td>
+                        Full Name Date of Birth, Full Name, Ssn, MMN DL No,
+                        Address/zip/Phone
+                      </td>
+                      <td>RESIDENT</td>
+                      <td>100$</td>
+                      <td>
+                        <label className="badge badge-danger blink_me">
+                          sold out
+                        </label>
+                      </td>
+                      <td>
+                        <Link
+                          to="/addfunds"
+                          style={{ textDecoration: "none" }}
+                          state={{ from: "$95", balance: "$1,017.76" }}
+                        >
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">New York FULLZ</th>
+                      <td>@makerthree</td>
+                      <td>
+                        Full Name Date of Birth, Full Name, Ssn, MMN DL No,
+                        Address/zip/Phone
+                      </td>
+                      <td>RESIDENT</td>
+                      <td>100$</td>
+                      <td>
+                        <label className="badge badge-danger blink_me">
+                          sold out
+                        </label>
+                      </td>
+                      <td>
+                        <Link
+                          to="/addfunds"
+                          style={{ textDecoration: "none" }}
+                          state={{ from: "$95", balance: "$1,017.76" }}
+                        >
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">New York FULLZ</th>
+                      <td>@makerthree</td>
+                      <td>
+                        Full Name Date of Birth, Full Name, Ssn, MMN DL No,
+                        Address/zip/Phone
+                      </td>
+                      <td>RESIDENT</td>
+                      <td>100$</td>
+                      <td>
+                        <label className="badge badge-danger blink_me">
+                          sold out
+                        </label>
+                      </td>
+                      <td>
+                        <Link
+                          to="/addfunds"
+                          style={{ textDecoration: "none" }}
+                          state={{ from: "$95", balance: "$1,017.76" }}
+                        >
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">New York FULLZ</th>
+                      <td>@makerthree</td>
+                      <td>
+                        Full Name Date of Birth, Full Name, Ssn, MMN DL No,
+                        Address/zip/Phone
+                      </td>
+                      <td>RESIDENT</td>
+                      <td>100$</td>
+                      <td>
+                        <label className="badge badge-danger blink_me">
+                          sold out
+                        </label>
+                      </td>
+                      <td>
+                        <Link
+                          to="/addfunds"
+                          style={{ textDecoration: "none" }}
+                          state={{ from: "$95", balance: "$1,017.76" }}
+                        >
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">New York FULLZ</th>
+                      <td>@makerthree</td>
+                      <td>
+                        Full Name Date of Birth, Full Name, Ssn, MMN DL No,
+                        Address/zip/Phone
+                      </td>
+                      <td>RESIDENT</td>
+                      <td>100$</td>
+                      <td>
+                        <label className="badge badge-danger blink_me">
+                          sold out
+                        </label>
+                      </td>
+                      <td>
+                        <Link
+                          to="/addfunds"
+                          style={{ textDecoration: "none" }}
+                          state={{ from: "$95", balance: "$1,017.76" }}
+                        >
+                          <button className="tablePurchased">
+                            <i
+                              class="fa fa-shopping-cart"
+                              aria-hidden="true"
+                            ></i>{" "}
+                            Purchase
+                          </button>
+                        </Link>
+                      </td>
+                    </tr>
+                    <tr>
+                      <th scope="row">New York FULLZ</th>
+                      <td>@makerthree</td>
+                      <td>
+                        Full Name Date of Birth, Full Name, Ssn, MMN DL No,
+                        Address/zip/Phone
+                      </td>
+                      <td>RESIDENT</td>
                       <td>100$</td>
                       <td>
                         <label className="badge badge-success blink_me">
-                          Available
+                          available
                         </label>
                       </td>
                       <td>
                         <Link
                           to="/addfunds"
                           style={{ textDecoration: "none" }}
-                          state={{ from: "$100", balance: "$1,254.64" }}
+                          state={{ from: "$95", balance: "$1,017.76" }}
                         >
                           <button className="tablePurchased">
                             <i
@@ -452,24 +781,24 @@ export default function Newyorkfuliz() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">New York FULLZ</th>
                       <td>@makerthree</td>
                       <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
+                        Full Name Date of Birth, Full Name, Ssn, MMN DL No,
+                        Address/zip/Phone
                       </td>
-                      <td>$1,632.75</td>
-                      <td>150$</td>
+                      <td>RESIDENT</td>
+                      <td>100$</td>
                       <td>
                         <label className="badge badge-success blink_me">
-                          Available
+                          available
                         </label>
                       </td>
                       <td>
                         <Link
                           to="/addfunds"
                           style={{ textDecoration: "none" }}
-                          state={{ from: "$150", balance: "$1,632.75" }}
+                          state={{ from: "$95", balance: "$1,017.76" }}
                         >
                           <button className="tablePurchased">
                             <i
@@ -482,24 +811,24 @@ export default function Newyorkfuliz() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">New York FULLZ</th>
                       <td>@makerthree</td>
                       <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
+                        Full Name Date of Birth, Full Name, Ssn, MMN DL No,
+                        Address/zip/Phone
                       </td>
-                      <td>$1,883.53</td>
-                      <td>180$</td>
+                      <td>RESIDENT</td>
+                      <td>100$</td>
                       <td>
                         <label className="badge badge-success blink_me">
-                          Available
+                          available
                         </label>
                       </td>
                       <td>
                         <Link
                           to="/addfunds"
                           style={{ textDecoration: "none" }}
-                          state={{ from: "$180", balance: "$1,883.53" }}
+                          state={{ from: "$95", balance: "$1,017.76" }}
                         >
                           <button className="tablePurchased">
                             <i
@@ -512,24 +841,24 @@ export default function Newyorkfuliz() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">New York FULLZ</th>
                       <td>@makerthree</td>
                       <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
+                        Full Name Date of Birth, Full Name, Ssn, MMN DL No,
+                        Address/zip/Phone
                       </td>
-                      <td>$2,165.53</td>
-                      <td>230$</td>
+                      <td>RESIDENT</td>
+                      <td>100$</td>
                       <td>
                         <label className="badge badge-success blink_me">
-                          Available
+                          available
                         </label>
                       </td>
                       <td>
                         <Link
                           to="/addfunds"
                           style={{ textDecoration: "none" }}
-                          state={{ from: "$203", balance: "$2,165.53" }}
+                          state={{ from: "$95", balance: "$1,017.76" }}
                         >
                           <button className="tablePurchased">
                             <i
@@ -542,24 +871,24 @@ export default function Newyorkfuliz() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">New York FULLZ</th>
                       <td>@makerthree</td>
                       <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
+                        Full Name Date of Birth, Full Name, Ssn, MMN DL No,
+                        Address/zip/Phone
                       </td>
-                      <td>$2,523.48</td>
-                      <td>240$</td>
+                      <td>RESIDENT</td>
+                      <td>100$</td>
                       <td>
                         <label className="badge badge-success blink_me">
-                          Available
+                          available
                         </label>
                       </td>
                       <td>
                         <Link
                           to="/addfunds"
                           style={{ textDecoration: "none" }}
-                          state={{ from: "$240", balance: "$2,523.48" }}
+                          state={{ from: "$95", balance: "$1,017.76" }}
                         >
                           <button className="tablePurchased">
                             <i
@@ -572,54 +901,24 @@ export default function Newyorkfuliz() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">New York FULLZ</th>
                       <td>@makerthree</td>
                       <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
+                        Full Name Date of Birth, Full Name, Ssn, MMN DL No,
+                        Address/zip/Phone
                       </td>
-                      <td>$2,755.00</td>
-                      <td>263$</td>
-                      <td>
-                        <label className="badge badge-danger blink_me">
-                          sold out
-                        </label>
-                      </td>
-                      <td>
-                        <Link
-                          to="/addfunds"
-                          style={{ textDecoration: "none" }}
-                          state={{ from: "$263", balance: "$2,755.00" }}
-                        >
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">Cashapp</th>
-                      <td>@makerthree</td>
-                      <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
-                      </td>
-                      <td>$10,736.88</td>
-                      <td>190$</td>
+                      <td>RESIDENT</td>
+                      <td>100$</td>
                       <td>
                         <label className="badge badge-success blink_me">
-                          Available
+                          available
                         </label>
                       </td>
                       <td>
                         <Link
                           to="/addfunds"
                           style={{ textDecoration: "none" }}
-                          state={{ from: "$190", balance: "$10,736.88" }}
+                          state={{ from: "$95", balance: "$1,017.76" }}
                         >
                           <button className="tablePurchased">
                             <i
@@ -632,54 +931,24 @@ export default function Newyorkfuliz() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">New York FULLZ</th>
                       <td>@makerthree</td>
                       <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
+                        Full Name Date of Birth, Full Name, Ssn, MMN DL No,
+                        Address/zip/Phone
                       </td>
-                      <td>$3,027.01</td>
-                      <td>299$</td>
-                      <td>
-                        <label className="badge badge-danger blink_me">
-                          sold out
-                        </label>
-                      </td>
-                      <td>
-                        <Link
-                          to="/addfunds"
-                          style={{ textDecoration: "none" }}
-                          state={{ from: "$299", balance: "$3,027.01" }}
-                        >
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">Cashapp</th>
-                      <td>@makerthree</td>
-                      <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
-                      </td>
-                      <td>$3,163.56</td>
-                      <td>310$</td>
+                      <td>RESIDENT</td>
+                      <td>100$</td>
                       <td>
                         <label className="badge badge-success blink_me">
-                          Available
+                          available
                         </label>
                       </td>
                       <td>
                         <Link
                           to="/addfunds"
                           style={{ textDecoration: "none" }}
-                          state={{ from: "$310", balance: "$3,163.56" }}
+                          state={{ from: "$95", balance: "$1,017.76" }}
                         >
                           <button className="tablePurchased">
                             <i
@@ -692,24 +961,24 @@ export default function Newyorkfuliz() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">New York FULLZ</th>
                       <td>@makerthree</td>
                       <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
+                        Full Name Date of Birth, Full Name, Ssn, MMN DL No,
+                        Address/zip/Phone
                       </td>
-                      <td>$3,674.90</td>
-                      <td>350$</td>
+                      <td>RESIDENT</td>
+                      <td>100$</td>
                       <td>
                         <label className="badge badge-success blink_me">
-                          Available
+                          available
                         </label>
                       </td>
                       <td>
                         <Link
                           to="/addfunds"
                           style={{ textDecoration: "none" }}
-                          state={{ from: "$350", balance: "$3,674.90" }}
+                          state={{ from: "$95", balance: "$1,017.76" }}
                         >
                           <button className="tablePurchased">
                             <i
@@ -722,174 +991,24 @@ export default function Newyorkfuliz() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">New York FULLZ</th>
                       <td>@makerthree</td>
                       <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
+                        Full Name Date of Birth, Full Name, Ssn, MMN DL No,
+                        Address/zip/Phone
                       </td>
-                      <td>$3,900.43</td>
-                      <td>380$</td>
+                      <td>RESIDENT</td>
+                      <td>100$</td>
                       <td>
                         <label className="badge badge-success blink_me">
-                          Available
+                          available
                         </label>
                       </td>
                       <td>
                         <Link
                           to="/addfunds"
                           style={{ textDecoration: "none" }}
-                          state={{ from: "$380", balance: "$3,900.43" }}
-                        >
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">Cashapp</th>
-                      <td>@makerthree</td>
-                      <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
-                      </td>
-                      <td>$3,674.90</td>
-                      <td>350$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link
-                          to="/addfunds"
-                          style={{ textDecoration: "none" }}
-                          state={{ from: "$350", balance: "$3,674.90" }}
-                        >
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">Cashapp</th>
-                      <td>@makerthree</td>
-                      <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
-                      </td>
-                      <td>$4,117.86</td>
-                      <td>324$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link
-                          to="/addfunds"
-                          style={{ textDecoration: "none" }}
-                          state={{ from: "$240", balance: "$2,523.48" }}
-                        >
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">Cashapp</th>
-                      <td>@makerthree</td>
-                      <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
-                      </td>
-                      <td>$4,684.35</td>
-                      <td>450$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link
-                          to="/addfunds"
-                          style={{ textDecoration: "none" }}
-                          state={{ from: "$450", balance: "$4,684.35" }}
-                        >
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">Cashapp</th>
-                      <td>@makerthree</td>
-                      <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
-                      </td>
-                      <td>$4,853.57</td>
-                      <td>484$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link
-                          to="/addfunds"
-                          style={{ textDecoration: "none" }}
-                          state={{ from: "$484", balance: "$4,853.57" }}
-                        >
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">Cashapp</th>
-                      <td>@makerthree</td>
-                      <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
-                      </td>
-                      <td>$5,024.42</td>
-                      <td>498$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link
-                          to="/addfunds"
-                          style={{ textDecoration: "none" }}
-                          state={{ from: "$498", balance: "$5,024.42" }}
+                          state={{ from: "$95", balance: "$1,017.76" }}
                         >
                           <button className="tablePurchased">
                             <i

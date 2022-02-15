@@ -755,6 +755,18 @@ button.proceeed_to_checkout {
 }
 .code_qrcode {
   text-align: center;
+  position: relative;
+}
+.addressFragemnt {
+  position: relative;
+}
+.fa-clone {
+  position: absolute;
+  right: 12%;
+  top: 30%;
+  font-size: 18px;
+  background: orange;
+  cursor: pointer;
 }
 input.input_scan_copy {
   background: #333;

@@ -212,7 +212,7 @@ export default function Westernunion() {
               >
                 <div className="card-body">
                   <Link style={{ textDecoration: "none" }} to="/cashappaccount">
-                    <li>Cashapp Account</li>
+                    <li>Western Union Account</li>
                   </Link>
 
                   <Link style={{ textDecoration: "none" }} to="/paypalaccount">
@@ -372,10 +372,12 @@ export default function Westernunion() {
             style={{ width: accordionWidth ? "1000px" : "1200px" }}
           >
             <div className="inner_div_table">
-              <div className="udpated">Cashapp Logs 100% Valid updated </div>
+              <div className="udpated">
+                Western Union Logs 100% Valid updated{" "}
+              </div>
               <div className="goodForCC">
-                Cashapp logs. All my Cashapp is BTC Enabled! Bank/Card Linked
-                2021 Updated 06/01/2022
+                Western Union logs. All my Western Union is BTC Enabled!
+                Bank/Card Linked 2021 Updated 06/01/2022
               </div>
               <div>
                 <table className="table table-bordered table-responsive">
@@ -392,7 +394,7 @@ export default function Westernunion() {
                   </thead>
                   <tbody>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Western Union</th>
                       <td>@makerthree</td>
                       <td>
                         Cash app BTC enable, fully verified, email access, Max
@@ -422,7 +424,7 @@ export default function Westernunion() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Western Union</th>
                       <td>@makerthree</td>
                       <td>
                         Cash app BTC enable, fully verified, email access, Max
@@ -452,7 +454,7 @@ export default function Westernunion() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Western Union</th>
                       <td>@makerthree</td>
                       <td>
                         Cash app BTC enable, fully verified, email access, Max
@@ -482,7 +484,7 @@ export default function Westernunion() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Western Union</th>
                       <td>@makerthree</td>
                       <td>
                         Cash app BTC enable, fully verified, email access, Max
@@ -512,7 +514,7 @@ export default function Westernunion() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Western Union</th>
                       <td>@makerthree</td>
                       <td>
                         Cash app BTC enable, fully verified, email access, Max
@@ -542,7 +544,7 @@ export default function Westernunion() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Western Union</th>
                       <td>@makerthree</td>
                       <td>
                         Cash app BTC enable, fully verified, email access, Max
@@ -572,7 +574,7 @@ export default function Westernunion() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Western Union</th>
                       <td>@makerthree</td>
                       <td>
                         Cash app BTC enable, fully verified, email access, Max
@@ -602,7 +604,7 @@ export default function Westernunion() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Western Union</th>
                       <td>@makerthree</td>
                       <td>
                         Cash app BTC enable, fully verified, email access, Max
@@ -632,7 +634,7 @@ export default function Westernunion() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Western Union</th>
                       <td>@makerthree</td>
                       <td>
                         Cash app BTC enable, fully verified, email access, Max
@@ -662,7 +664,7 @@ export default function Westernunion() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Western Union</th>
                       <td>@makerthree</td>
                       <td>
                         Cash app BTC enable, fully verified, email access, Max
@@ -692,7 +694,7 @@ export default function Westernunion() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Western Union</th>
                       <td>@makerthree</td>
                       <td>
                         Cash app BTC enable, fully verified, email access, Max
@@ -722,7 +724,7 @@ export default function Westernunion() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Western Union</th>
                       <td>@makerthree</td>
                       <td>
                         Cash app BTC enable, fully verified, email access, Max
@@ -752,7 +754,7 @@ export default function Westernunion() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Western Union</th>
                       <td>@makerthree</td>
                       <td>
                         Cash app BTC enable, fully verified, email access, Max
@@ -782,7 +784,7 @@ export default function Westernunion() {
                       </td>
                     </tr>
                     <tr>
-                      <th scope="row">Cashapp</th>
+                      <th scope="row">Western Union</th>
                       <td>@makerthree</td>
                       <td>
                         Cash app BTC enable, fully verified, email access, Max
@@ -800,96 +802,6 @@ export default function Westernunion() {
                           to="/addfunds"
                           style={{ textDecoration: "none" }}
                           state={{ from: "$240", balance: "$2,523.48" }}
-                        >
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">Cashapp</th>
-                      <td>@makerthree</td>
-                      <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
-                      </td>
-                      <td>$4,684.35</td>
-                      <td>450$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link
-                          to="/addfunds"
-                          style={{ textDecoration: "none" }}
-                          state={{ from: "$450", balance: "$4,684.35" }}
-                        >
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">Cashapp</th>
-                      <td>@makerthree</td>
-                      <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
-                      </td>
-                      <td>$4,853.57</td>
-                      <td>484$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link
-                          to="/addfunds"
-                          style={{ textDecoration: "none" }}
-                          state={{ from: "$484", balance: "$4,853.57" }}
-                        >
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">Cashapp</th>
-                      <td>@makerthree</td>
-                      <td>
-                        Cash app BTC enable, fully verified, email access, Max
-                        transaction limit per day is high
-                      </td>
-                      <td>$5,024.42</td>
-                      <td>498$</td>
-                      <td>
-                        <label className="badge badge-success blink_me">
-                          Available
-                        </label>
-                      </td>
-                      <td>
-                        <Link
-                          to="/addfunds"
-                          style={{ textDecoration: "none" }}
-                          state={{ from: "$498", balance: "$5,024.42" }}
                         >
                           <button className="tablePurchased">
                             <i
