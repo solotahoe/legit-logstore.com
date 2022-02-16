@@ -345,7 +345,7 @@ export default function Coinbasewallet() {
                 <div className="card-body">
                   <Link
                     style={{ textDecoration: "none" }}
-                    to="/blockchainwallet"
+                    to="/blockchainaccount"
                   >
                     <li>Blockchanin wallet</li>
                   </Link>
@@ -356,7 +356,7 @@ export default function Coinbasewallet() {
                   <Link style={{ textDecoration: "none" }} to="/paxfull">
                     <li>paxfull</li>
                   </Link>
-                  <Link style={{ textDecoration: "none" }} to="/cpanelaccount">
+                  <Link style={{ textDecoration: "none" }} to="/cpanleAccount">
                     <li>Cpanel Account</li>
                   </Link>
                   <Link style={{ textDecoration: "none" }} to="/rdpaccount">
@@ -399,8 +399,8 @@ export default function Coinbasewallet() {
                         Online Access,Email Access, DOB,Cookies,Q&A Gender,Ssn,
                         Address, Acct&Rn license NO,ZelleON
                       </td>
-                      <td>$4,853.57</td>
-                      <td>484$</td>
+                      <td>$1,014.76</td>
+                      <td>95$</td>
                       <td>
                         <label className="badge badge-success blink_me">
                           Available
@@ -410,7 +410,7 @@ export default function Coinbasewallet() {
                         <Link
                           to="/addfunds"
                           style={{ textDecoration: "none" }}
-                          state={{ from: "$95", balance: "$1,017.76" }}
+                          state={{ from: "$95", balance: "$1,014.76" }}
                         >
                           <button className="tablePurchased">
                             <i

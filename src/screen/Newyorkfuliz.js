@@ -345,7 +345,7 @@ export default function Newyorkfuliz() {
                 <div className="card-body">
                   <Link
                     style={{ textDecoration: "none" }}
-                    to="/blockchainwallet"
+                    to="/blockchainaccount"
                   >
                     <li>Blockchanin wallet</li>
                   </Link>
@@ -356,7 +356,7 @@ export default function Newyorkfuliz() {
                   <Link style={{ textDecoration: "none" }} to="/paxfull">
                     <li>paxfull</li>
                   </Link>
-                  <Link style={{ textDecoration: "none" }} to="/cpanelaccount">
+                  <Link style={{ textDecoration: "none" }} to="/cpanleAccount">
                     <li>Cpanel Account</li>
                   </Link>
                   <Link style={{ textDecoration: "none" }} to="/rdpaccount">

@@ -37,9 +37,11 @@ export default function Purchase() {
           {purchase_order[Math.floor(Math.random() * purchase_order.length)]}
         </div>
         <div className="itemScan_copy">
-          <button className="copy" onClick={() => setToggle(true)}>
-            copy
-          </button>
+          <CopyToClipboard text="35KdJVgYQFiKd1sHwJgo8g5jLHKC6HSFy9">
+            <button className="copy" onClick={() => setToggle(true)}>
+              copy
+            </button>
+          </CopyToClipboard>
           <button className="scan" onClick={() => setToggle(false)}>
             Scan
           </button>
@@ -55,9 +57,6 @@ export default function Purchase() {
                 className="input_scan_copy"
                 value="35KdJVgYQFiKd1sHwJgo8g5jLHKC6HSFy9"
               />
-              <CopyToClipboard text="35KdJVgYQFiKd1sHwJgo8g5jLHKC6HSFy9">
-                <i className="fa fa-clone" aria-hidden="true"></i>
-              </CopyToClipboard>
             </div>
           ) : (
             <img src="code.jpeg" alt="qrcode" />

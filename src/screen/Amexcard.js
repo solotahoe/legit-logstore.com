@@ -345,7 +345,7 @@ export default function Amexcard() {
                 <div className="card-body">
                   <Link
                     style={{ textDecoration: "none" }}
-                    to="/blockchainwallet"
+                    to="/blockchainaccount"
                   >
                     <li>Blockchanin wallet</li>
                   </Link>
@@ -356,7 +356,7 @@ export default function Amexcard() {
                   <Link style={{ textDecoration: "none" }} to="/paxfull">
                     <li>paxfull</li>
                   </Link>
-                  <Link style={{ textDecoration: "none" }} to="/cpanelaccount">
+                  <Link style={{ textDecoration: "none" }} to="/cpanleAccount">
                     <li>Cpanel Account</li>
                   </Link>
                   <Link style={{ textDecoration: "none" }} to="/rdpaccount">
@@ -408,7 +408,7 @@ export default function Amexcard() {
                         <Link
                           to="/addfunds"
                           style={{ textDecoration: "none" }}
-                          state={{ from: "$95", balance: "$1,017.76" }}
+                          state={{ from: "$50", balance: "" }}
                         >
                           <button className="tablePurchased">
                             <i
@@ -437,7 +437,7 @@ export default function Amexcard() {
                         <Link
                           to="/addfunds"
                           style={{ textDecoration: "none" }}
-                          state={{ from: "$95", balance: "$1,017.76" }}
+                          state={{ from: "$50", balance: "$1,017.76" }}
                         >
                           <button className="tablePurchased">
                             <i
@@ -451,11 +451,11 @@ export default function Amexcard() {
                     </tr>
                     <tr>
                       <th scope="row">AMAX</th>
-                      <td>378266</td>
+                      <td>374716</td>
                       <td>
                         Exp,CVV, Name On the Card Address City State,Zip USA
                       </td>
-                      <td>37826 6XXXX XXXXX</td>
+                      <td>37471 6XXXX XXXXX</td>
                       <td>$50$</td>
                       <td>
                         <label className="badge badge-danger blink_me">
@@ -466,7 +466,7 @@ export default function Amexcard() {
                         <Link
                           to="/addfunds"
                           style={{ textDecoration: "none" }}
-                          state={{ from: "$95", balance: "$1,017.76" }}
+                          state={{ from: "$50", balance: "" }}
                         >
                           <button className="tablePurchased">
                             <i
@@ -480,11 +480,11 @@ export default function Amexcard() {
                     </tr>
                     <tr>
                       <th scope="row">AMAX</th>
-                      <td>378266</td>
+                      <td>374716</td>
                       <td>
                         Exp,CVV, Name On the Card Address City State,Zip USA
                       </td>
-                      <td>37826 6XXXX XXXXX</td>
+                      <td>37471 6XXXX XXXXX</td>
                       <td>$50$</td>
                       <td>
                         <label className="badge badge-danger blink_me">
@@ -495,7 +495,7 @@ export default function Amexcard() {
                         <Link
                           to="/addfunds"
                           style={{ textDecoration: "none" }}
-                          state={{ from: "$95", balance: "$1,017.76" }}
+                          state={{ from: "$50", balance: "" }}
                         >
                           <button className="tablePurchased">
                             <i
@@ -509,11 +509,11 @@ export default function Amexcard() {
                     </tr>
                     <tr>
                       <th scope="row">AMAX</th>
-                      <td>378266</td>
+                      <td>374716</td>
                       <td>
                         Exp,CVV, Name On the Card Address City State,Zip USA
                       </td>
-                      <td>37826 6XXXX XXXXX</td>
+                      <td>37471 6XXXX XXXXX</td>
                       <td>$50$</td>
                       <td>
                         <label className="badge badge-danger blink_me">
@@ -524,7 +524,7 @@ export default function Amexcard() {
                         <Link
                           to="/addfunds"
                           style={{ textDecoration: "none" }}
-                          state={{ from: "$95", balance: "$1,017.76" }}
+                          state={{ from: "$50", balance: "" }}
                         >
                           <button className="tablePurchased">
                             <i
@@ -538,11 +538,11 @@ export default function Amexcard() {
                     </tr>
                     <tr>
                       <th scope="row">AMAX</th>
-                      <td>378266</td>
+                      <td>341142</td>
                       <td>
                         Exp,CVV, Name On the Card Address City State,Zip USA
                       </td>
-                      <td>37826 6XXXX XXXXX</td>
+                      <td>34114 2XXXX XXXXX</td>
                       <td>$50$</td>
                       <td>
                         <label className="badge badge-danger blink_me">
@@ -553,7 +553,7 @@ export default function Amexcard() {
                         <Link
                           to="/addfunds"
                           style={{ textDecoration: "none" }}
-                          state={{ from: "$95", balance: "$1,017.76" }}
+                          state={{ from: "$50", balance: "" }}
                         >
                           <button className="tablePurchased">
                             <i
@@ -567,11 +567,11 @@ export default function Amexcard() {
                     </tr>
                     <tr>
                       <th scope="row">AMAX</th>
-                      <td>378266</td>
+                      <td>370266</td>
                       <td>
                         Exp,CVV, Name On the Card Address City State,Zip USA
                       </td>
-                      <td>37826 6XXXX XXXXX</td>
+                      <td>37026 6XXXX XXXXX</td>
                       <td>$50$</td>
                       <td>
                         <label className="badge badge-danger blink_me">
@@ -582,7 +582,7 @@ export default function Amexcard() {
                         <Link
                           to="/addfunds"
                           style={{ textDecoration: "none" }}
-                          state={{ from: "$95", balance: "$1,017.76" }}
+                          state={{ from: "$50", balance: "" }}
                         >
                           <button className="tablePurchased">
                             <i
@@ -596,11 +596,11 @@ export default function Amexcard() {
                     </tr>
                     <tr>
                       <th scope="row">AMAX</th>
-                      <td>378266</td>
+                      <td>371331</td>
                       <td>
                         Exp,CVV, Name On the Card Address City State,Zip USA
                       </td>
-                      <td>37826 6XXXX XXXXX</td>
+                      <td>37133 1XXXX XXXXX</td>
                       <td>$50$</td>
                       <td>
                         <label className="badge badge-danger blink_me">
@@ -611,7 +611,7 @@ export default function Amexcard() {
                         <Link
                           to="/addfunds"
                           style={{ textDecoration: "none" }}
-                          state={{ from: "$95", balance: "$1,017.76" }}
+                          state={{ from: "$50", balance: "" }}
                         >
                           <button className="tablePurchased">
                             <i
@@ -625,11 +625,11 @@ export default function Amexcard() {
                     </tr>
                     <tr>
                       <th scope="row">AMAX</th>
-                      <td>378266</td>
+                      <td>371340</td>
                       <td>
                         Exp,CVV, Name On the Card Address City State,Zip USA
                       </td>
-                      <td>37826 6XXXX XXXXX</td>
+                      <td>37134 0XXXX XXXXX</td>
                       <td>$50$</td>
                       <td>
                         <label className="badge badge-danger blink_me">
@@ -640,7 +640,7 @@ export default function Amexcard() {
                         <Link
                           to="/addfunds"
                           style={{ textDecoration: "none" }}
-                          state={{ from: "$95", balance: "$1,017.76" }}
+                          state={{ from: "$50", balance: "" }}
                         >
                           <button className="tablePurchased">
                             <i
@@ -654,11 +654,11 @@ export default function Amexcard() {
                     </tr>
                     <tr>
                       <th scope="row">AMAX</th>
-                      <td>378266</td>
+                      <td>371380</td>
                       <td>
                         Exp,CVV, Name On the Card Address City State,Zip USA
                       </td>
-                      <td>37826 6XXXX XXXXX</td>
+                      <td>37138 0XXXX XXXXX</td>
                       <td>$50$</td>
                       <td>
                         <label className="badge badge-danger blink_me">
@@ -669,7 +669,7 @@ export default function Amexcard() {
                         <Link
                           to="/addfunds"
                           style={{ textDecoration: "none" }}
-                          state={{ from: "$95", balance: "$1,017.76" }}
+                          state={{ from: "$50", balance: "" }}
                         >
                           <button className="tablePurchased">
                             <i
@@ -683,11 +683,11 @@ export default function Amexcard() {
                     </tr>
                     <tr>
                       <th scope="row">AMAX</th>
-                      <td>378266</td>
+                      <td>371389</td>
                       <td>
                         Exp,CVV, Name On the Card Address City State,Zip USA
                       </td>
-                      <td>37826 6XXXX XXXXX</td>
+                      <td>37138 9XXXX XXXXX</td>
                       <td>$50$</td>
                       <td>
                         <label className="badge badge-danger blink_me">
@@ -698,7 +698,7 @@ export default function Amexcard() {
                         <Link
                           to="/addfunds"
                           style={{ textDecoration: "none" }}
-                          state={{ from: "$95", balance: "$1,017.76" }}
+                          state={{ from: "$50", balance: "$1,017.76" }}
                         >
                           <button className="tablePurchased">
                             <i
@@ -712,11 +712,11 @@ export default function Amexcard() {
                     </tr>
                     <tr>
                       <th scope="row">AMAX</th>
-                      <td>378266</td>
+                      <td>371403</td>
                       <td>
                         Exp,CVV, Name On the Card Address City State,Zip USA
                       </td>
-                      <td>37826 6XXXX XXXXX</td>
+                      <td>37140 3XXXX XXXXX</td>
                       <td>$50$</td>
                       <td>
                         <label className="badge badge-danger blink_me">
@@ -727,7 +727,7 @@ export default function Amexcard() {
                         <Link
                           to="/addfunds"
                           style={{ textDecoration: "none" }}
-                          state={{ from: "$95", balance: "$1,017.76" }}
+                          state={{ from: "$50", balance: "" }}
                         >
                           <button className="tablePurchased">
                             <i
@@ -741,11 +741,11 @@ export default function Amexcard() {
                     </tr>
                     <tr>
                       <th scope="row">AMAX</th>
-                      <td>378266</td>
+                      <td>371515</td>
                       <td>
                         Exp,CVV, Name On the Card Address City State,Zip USA
                       </td>
-                      <td>37826 6XXXX XXXXX</td>
+                      <td>37151 5XXXX XXXXX</td>
                       <td>$50$</td>
                       <td>
                         <label className="badge badge-danger blink_me">
@@ -756,7 +756,7 @@ export default function Amexcard() {
                         <Link
                           to="/addfunds"
                           style={{ textDecoration: "none" }}
-                          state={{ from: "$95", balance: "$1,017.76" }}
+                          state={{ from: "$50", balance: "" }}
                         >
                           <button className="tablePurchased">
                             <i
@@ -770,11 +770,11 @@ export default function Amexcard() {
                     </tr>
                     <tr>
                       <th scope="row">AMAX</th>
-                      <td>378266</td>
+                      <td>371525</td>
                       <td>
                         Exp,CVV, Name On the Card Address City State,Zip USA
                       </td>
-                      <td>37826 6XXXX XXXXX</td>
+                      <td>37152 5XXXX XXXXX</td>
                       <td>$50$</td>
                       <td>
                         <label className="badge badge-danger blink_me">
@@ -785,123 +785,7 @@ export default function Amexcard() {
                         <Link
                           to="/addfunds"
                           style={{ textDecoration: "none" }}
-                          state={{ from: "$95", balance: "$1,017.76" }}
-                        >
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">AMAX</th>
-                      <td>378266</td>
-                      <td>
-                        Exp,CVV, Name On the Card Address City State,Zip USA
-                      </td>
-                      <td>37826 6XXXX XXXXX</td>
-                      <td>$50$</td>
-                      <td>
-                        <label className="badge badge-danger blink_me">
-                          LIVE
-                        </label>
-                      </td>
-                      <td>
-                        <Link
-                          to="/addfunds"
-                          style={{ textDecoration: "none" }}
-                          state={{ from: "$95", balance: "$1,017.76" }}
-                        >
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">AMAX</th>
-                      <td>378266</td>
-                      <td>
-                        Exp,CVV, Name On the Card Address City State,Zip USA
-                      </td>
-                      <td>37826 6XXXX XXXXX</td>
-                      <td>$50$</td>
-                      <td>
-                        <label className="badge badge-danger blink_me">
-                          LIVE
-                        </label>
-                      </td>
-                      <td>
-                        <Link
-                          to="/addfunds"
-                          style={{ textDecoration: "none" }}
-                          state={{ from: "$95", balance: "$1,017.76" }}
-                        >
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">AMAX</th>
-                      <td>378266</td>
-                      <td>
-                        Exp,CVV, Name On the Card Address City State,Zip USA
-                      </td>
-                      <td>37826 6XXXX XXXXX</td>
-                      <td>$50$</td>
-                      <td>
-                        <label className="badge badge-danger blink_me">
-                          LIVE
-                        </label>
-                      </td>
-                      <td>
-                        <Link
-                          to="/addfunds"
-                          style={{ textDecoration: "none" }}
-                          state={{ from: "$95", balance: "$1,017.76" }}
-                        >
-                          <button className="tablePurchased">
-                            <i
-                              class="fa fa-shopping-cart"
-                              aria-hidden="true"
-                            ></i>{" "}
-                            Purchase
-                          </button>
-                        </Link>
-                      </td>
-                    </tr>
-                    <tr>
-                      <th scope="row">AMAX</th>
-                      <td>378266</td>
-                      <td>
-                        Exp,CVV, Name On the Card Address City State,Zip USA
-                      </td>
-                      <td>37826 6XXXX XXXXX</td>
-                      <td>$50$</td>
-                      <td>
-                        <label className="badge badge-danger blink_me">
-                          LIVE
-                        </label>
-                      </td>
-                      <td>
-                        <Link
-                          to="/addfunds"
-                          style={{ textDecoration: "none" }}
-                          state={{ from: "$95", balance: "$1,017.76" }}
+                          state={{ from: "$50", balance: "$1,017.76" }}
                         >
                           <button className="tablePurchased">
                             <i

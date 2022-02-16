@@ -345,7 +345,7 @@ export default function Westernunion() {
                 <div className="card-body">
                   <Link
                     style={{ textDecoration: "none" }}
-                    to="/blockchainwallet"
+                    to="/blockchainaccount"
                   >
                     <li>Blockchanin wallet</li>
                   </Link>
@@ -356,7 +356,7 @@ export default function Westernunion() {
                   <Link style={{ textDecoration: "none" }} to="/paxfull">
                     <li>paxfull</li>
                   </Link>
-                  <Link style={{ textDecoration: "none" }} to="/cpanelaccount">
+                  <Link style={{ textDecoration: "none" }} to="/cpanleAccount">
                     <li>Cpanel Account</li>
                   </Link>
                   <Link style={{ textDecoration: "none" }} to="/rdpaccount">
@@ -400,8 +400,8 @@ export default function Westernunion() {
                         Cash app BTC enable, fully verified, email access, Max
                         transaction limit per day is high
                       </td>
-                      <td>$4,853.57</td>
-                      <td>484$</td>
+                      <td>$1,014.76</td>
+                      <td> 95$</td>
                       <td>
                         <label className="badge badge-success blink_me">
                           Available
@@ -411,7 +411,7 @@ export default function Westernunion() {
                         <Link
                           to="/addfunds"
                           style={{ textDecoration: "none" }}
-                          state={{ from: "$95", balance: "$1,017.76" }}
+                          state={{ from: "$95", balance: "$1,014.76" }}
                         >
                           <button className="tablePurchased">
                             <i
