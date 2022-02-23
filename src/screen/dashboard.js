@@ -44,7 +44,7 @@ export default function Dashboard() {
                   <div className="dropdownMenu">
                     <ul>
                       <li>Bank Logins</li>
-                      <li className="dropdownLiwhite">
+                      {/* <li className="dropdownLiwhite">
                         <Link
                           to="/home"
                           style={{ color: "#ffffff", textDecoration: "none" }}
@@ -52,7 +52,7 @@ export default function Dashboard() {
                           {" "}
                           Chase Bank Logs{" "}
                         </Link>
-                      </li>
+                      </li> */}
                       <li>
                         <Link
                           to="/chimebanklogs"
@@ -443,7 +443,7 @@ export default function Dashboard() {
                   <div className="dropdownMenu_smaller_screen">
                     <ul>
                       <li style={{ color: "white" }}>Bank Logins</li>
-                      <li>
+                      {/* <li>
                         <Link
                           to="/home"
                           style={{ color: "#8e9eae", textDecoration: "none" }}
@@ -451,7 +451,7 @@ export default function Dashboard() {
                           {" "}
                           Chase Bank Logs{" "}
                         </Link>
-                      </li>
+                      </li> */}
                       <li>
                         <Link
                           to="/chimebanklogs"
